@@ -1,0 +1,7 @@
+path: D:\python_proj\yolov5
+train: data_train\images
+val: data_val\images
+test:
+
+names:
+  0: drone landing area
